@@ -1,0 +1,4 @@
+- [x] Restore the Dollar Tree logo on independently hosted pages.
+- [x] Change the gift card amount to $500 and Get Started to the supplied link.
+- [x] Verify logo visibility and the updated offer.
+- [x] Put the logo back in the green header and remove the disclaimer text.
